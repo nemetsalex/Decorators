@@ -1,0 +1,4 @@
+2025-02-13 14:26:05 - Function: hello_world, arguments='', Returned: Hello World
+2025-02-13 14:26:05 - Function: summator, arguments='2, 2', Returned: 4
+2025-02-13 14:26:05 - Function: div, arguments='6, 2', Returned: 3.0
+2025-02-13 14:26:05 - Function: summator, arguments='4.3, b=2.2', Returned: 6.5

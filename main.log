@@ -1,0 +1,5 @@
+2025-02-13 14:25:30 - Function_name: hello_world, Arguments: args=(), kwargs={}, Returned: Hello World
+2025-02-13 14:25:30 - Function_name: summator, Arguments: args=(2, 2), kwargs={}, Returned: 4
+2025-02-13 14:25:30 - Function_name: div, Arguments: args=(6, 2), kwargs={}, Returned: 3.0
+2025-02-13 14:25:30 - Function_name: summator, Arguments: args=(4.3,), kwargs={'b': 2.2}, Returned: 6.5
+2025-02-13 14:25:30 - Function_name: summator, Arguments: args=(), kwargs={'a': 0, 'b': 0}, Returned: 0
